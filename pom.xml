@@ -18,4 +18,13 @@
   <build>
     <finalName>CounterWebApp</finalName>
   </build>
+
+<!--
+  mvn archetype:generate \
+ -DgroupId=com.mkyong \
+ -DartifactId=CounterWebApp \
+ -DarchetypeArtifactId=maven-archetype-webapp \
+ -DinteractiveMode=false
+-->
+
 </project>
